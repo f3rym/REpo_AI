@@ -1,2 +1,3 @@
 # REpo_AI
-мой репо с помощью mcp
+
+This is a new repository created for AI-related projects and experiments.
